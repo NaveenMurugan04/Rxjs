@@ -1,0 +1,11 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "A Guide to Rxjs Design pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
